@@ -5,4 +5,4 @@
 
 
 
-- 🔭 I’m currently working on Angular, React, Nodejs, Graphql, MongoDB & ElasticSearch.
+- 🔭 Currently working on Angular, React, Nodejs, Graphql, MongoDB & ElasticSearch.
