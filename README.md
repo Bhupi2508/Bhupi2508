@@ -5,4 +5,7 @@
 
 
 
-- 🔭 Currently working on Angular, React, Nodejs, Graphql, MongoDB & ElasticSearch.
+- 🎓 2+ years of experience in IT Product/software /web Application development and maintenance in Banking Domain.
+- 🔭 Expertise in Software Development, Enhancement and Customization as per client’s requirements and end to end application support plus maintenance.
+- 💻 Expertise in fixing Bugs or Defects and solving tickets /change Request-CR.
+- ✍ Hands on Experience in Reactjs, Nodejs, GraphQL, Angular, Elastic Search, MongoDB, Redis, Git, ES6, HTML, CSS, Jenkins, AWS S3 bucket and AWS EC2 instance.
