@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Development Engineer
 -----------------------------
 
-An experienced backend developer with 3 years' experience who works well in collaborative work environment, can find solutions, as well as determine customer satisfaction. Designed and developed web applications using Microservice architecture across multiple APIs, third-party integrations, and databases. Proven track record of producing robust code for high-volume Digital Banking Portal for a Tier 1 International & National Bank in Commercial/Business Banking vertical.
+I am an experienced backend developer with nearly 4 years of expertise in designing and developing web applications using Microservice architecture across multiple APIs, third-party integrations, and databases. 
+My proven track record demonstrates my ability to produce robust code for high-volume Digital Banking Portals for Tier 1 International & National Banks in the Commercial/Business Banking vertical. I am skilled in working collaboratively in a team environment, finding solutions, and ensuring customer satisfaction.
 
 * 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [Website](http://bhupi2508.netlify.app/)
