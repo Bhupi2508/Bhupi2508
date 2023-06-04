@@ -1,3 +1,4 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhupendra Singh
 =======================================================================================================================================
 
@@ -6,18 +7,25 @@ Software Development Engineer
 
 Experienced backend developer specializing in Microservice architecture for web applications, with a focus on high-volume Digital Banking Portals for Tier 1 banks. Strong collaborator, problem solver, and customer satisfaction driven.
 
-* 🌍  I'm based in Delhi
-* 🖥️  See my portfolio at [Website](http://bhupi2508.netlify.app/)
-* ✉️  You can contact me at [bhupendrasingh.ec18@gmail.com](mailto:bhupendrasingh.ec18@gmail.com)
-* 🧠  I'm learning Cloud Technologies
-* ⚡  Sportsman
+* 🌍  I'm based in Delhi
+* 🖥️  See my portfolio at [Website](http://bhupi2508.netlify.app/)
+* ✉️  You can contact me at [bhupendrasingh.ec18@gmail.com](mailto:bhupendrasingh.ec18@gmail.com)
+* 🧠  I'm learning Cloud Technologies
+* ⚡  Sportsman
+
+### 🤝 Connect with me :
 
 <a href="https://www.twitter.com/bhupi2508" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bhupi2508?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=000000"
-/></a><a href="https://www.github.com/bhupi2508" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bhupi2508?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
+src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=for-the-badge&labelColor=000000"
+/></a> <a href="https://www.linkedin.com/in/bhupi2508" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?logo=twitter&style=for-the-badge&labelColor=000000"
+/></a> <a href="https://www.stackoverflow.com/users/11480540/bhupendra-singh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white?&style=for-the-badge&labelColor=000000"
+/></a> <a href="https://www.github.com/bhupi2508" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white?logo=github&style=for-the-badge&labelColor=000000"
+/></a>
 
-### Skills
+### 👨‍💻 Skills :
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -38,26 +46,11 @@ src="https://img.shields.io/github/followers/bhupi2508?logo=github&style=for-the
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+###  My GitHub Stats
 
-### Socials
+<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupi2508&theme=blue_green" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupi2508&theme=blue_green" /></a>
 
-<p align="left"> <a href="https://www.github.com/bhupi2508" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhupi2508" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11480540/bhupendra-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bhupi2508" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/bhupi2508"><img src="https://github-readme-stats.vercel.app/api?username=bhupi2508&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="bhupi2508's GitHub stats" /></a>
-
-<a href="http://www.github.com/bhupi2508"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhupi2508&stroke=facc15&background=000000&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="http://www.github.com/bhupi2508"><img src="https://activity-graph.herokuapp.com/graph?username=bhupi2508&bg_color=000000&color=facc15&line=14b8a6&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/bhupi2508" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupi2508&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/bhupi2508/Book-Movie-Ticket-Backend-Nodejs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhupi2508&repo=Book-Movie-Ticket-Backend-Nodejs&title_color=22c55e&text_color=facc15&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/bhupi2508/SpaceX-launch-application" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhupi2508&repo=SpaceX-launch-application&title_color=22c55e&text_color=facc15&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhupi2508&theme=blue_green"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhupi2508&theme=blue_green&utcOffset=8"/></a>
 
 ### Support Me
 
