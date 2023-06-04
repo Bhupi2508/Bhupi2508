@@ -55,6 +55,10 @@ src="https://img.shields.io/github/followers/bhupi2508?logo=github&style=for-the
 
 <a href="https://github.com/bhupi2508" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupi2508&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/bhupi2508/Book-Movie-Ticket-Backend-Nodejs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhupi2508&repo=Book-Movie-Ticket-Backend-Nodejs&title_color=22c55e&text_color=facc15&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/bhupi2508/SpaceX-launch-application" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhupi2508&repo=SpaceX-launch-application&title_color=22c55e&text_color=facc15&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/bhupi2508"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
