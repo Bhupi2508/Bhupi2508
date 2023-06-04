@@ -1,4 +1,5 @@
 
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhupendra Singh
 =======================================================================================================================================
 
@@ -48,7 +49,9 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ###  My GitHub Stats
 
-<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupi2508&theme=blue_green" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupi2508&theme=blue_green" /></a>
+<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhupi2508&theme=blue_green" /></a>
+
+<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupi2508&theme=blue_green" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhupi2508&theme=blue_green" /></a>
 
 <a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhupi2508&theme=blue_green"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhupi2508&theme=blue_green&utcOffset=8"/></a>
 
