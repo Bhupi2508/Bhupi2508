@@ -21,9 +21,7 @@ Experienced Senior Software Engineer with 4+ years of expertise in Node.js, AWS,
 
 <a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhupi2508&theme=blue_green" /></a>
 
-<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupi2508&theme=blue_green" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhupi2508&theme=blue_green" /></a>
-
-<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhupi2508&theme=blue_green"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhupi2508&theme=blue_green&utcOffset=8"/></a>
+<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupi2508&theme=blue_green" /></a><a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhupi2508&theme=blue_green"/></a>
 
 ### 🙋‍♂️ Support Me :
 
