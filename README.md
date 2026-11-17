@@ -21,100 +21,144 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Senior Software Engineer with 7+ years of experience building scalable backend systems, distributed services, and enterprise applications. My experience includes banking and payments solutions, workflow development, API engineering, database design, and system integrations.
+I'm a **Senior Software Engineer with 7+ years of experience** building scalable backend systems, distributed services, and enterprise applications. My expertise includes **Node.js, TypeScript, microservices, banking and payments solutions**, API engineering, database design, and system integrations.
 
-I enjoy working across the software development lifecycle — from understanding requirements and reviewing code to testing, UAT, production releases, troubleshooting, and root cause analysis. I focus on building reliable solutions and solving practical engineering challenges.
+I contribute across the **complete software development lifecycle** — from requirement analysis and code reviews to testing, UAT, production releases, troubleshooting, and root cause analysis. I enjoy solving complex engineering problems and building reliable, maintainable solutions.
 
-Beyond technology, I enjoy playing sports, participating in team activities, volunteering, meeting new people, and contributing to the community. Currently, I'm also exploring AI Engineering.
+Beyond technology, I enjoy **playing sports, teamwork, volunteering, meeting new people, and community activities**. Currently, I'm also exploring **AI Engineering**.
 
-## Technical Services
+## 🛠️ Technical Services
 
-**Backend & API Development**  
-Building backend services, REST APIs, GraphQL APIs, microservices, and third-party integrations.
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>⚙️ Backend & API Development</h3>
+      <p>Scalable backend services, REST APIs, GraphQL, microservices, integrations, and database-driven solutions.</p>
+      <img src="https://img.shields.io/badge/REST%20APIs-26A69A?style=flat-square" />
+      <img src="https://img.shields.io/badge/GraphQL-26A69A?style=flat-square" />
+      <img src="https://img.shields.io/badge/Microservices-26A69A?style=flat-square" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>💻 Full Stack Development</h3>
+      <p>Web applications, frontend-backend integration, application architecture, and end-to-end feature development.</p>
+      <img src="https://img.shields.io/badge/Frontend-0E7490?style=flat-square" />
+      <img src="https://img.shields.io/badge/Backend-0E7490?style=flat-square" />
+      <img src="https://img.shields.io/badge/Integration-0E7490?style=flat-square" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🚀 Engineering Support</h3>
+      <p>System and database design, debugging, performance optimization, production troubleshooting, and maintenance.</p>
+      <img src="https://img.shields.io/badge/System%20Design-263B58?style=flat-square" />
+      <img src="https://img.shields.io/badge/Optimization-263B58?style=flat-square" />
+      <img src="https://img.shields.io/badge/Production%20Support-263B58?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-**Full Stack Development**  
-Developing web applications and connecting frontend experiences with reliable backend and database solutions.
+## 💻 Tech Stack
 
-**Technical Consulting & Support**  
-Working on system and database design, debugging, performance optimization, maintenance, and production support.
-
-## Technical Skills
-
-**Languages & Frameworks**
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="42" height="42" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/docs/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="42" height="42" alt="TypeScript"/></a>
-  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python"/></a>
-  <a href="https://nodejs.org/en/docs" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" alt="Node.js"/></a>
-  <a href="https://nestjs.com/" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" width="42" height="42" alt="NestJS"/></a>
-  <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="42" height="42" alt="Express.js"/></a>
-  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React"/></a>
-  <a href="https://angular.dev/" title="Angular"><img src="https://skillicons.dev/icons?i=angular" width="42" height="42" alt="Angular"/></a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="42" height="42" alt="FastAPI"/></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,nestjs,express,react,angular,fastapi,postgres,mongodb,redis,elasticsearch,aws,graphql,docker,kubernetes,git,github,gitlab,vscode,postman,jenkins&theme=dark&perline=30" alt="Languages, frameworks, databases, cloud and developer tools"/>
 </p>
 
-**Databases & Cloud**
-
-<p>
-  <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="PostgreSQL"/></a>
-  <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB"/></a>
-  <a href="https://redis.io/docs/" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="42" height="42" alt="Redis"/></a>
-  <a href="https://www.elastic.co/guide/" title="Elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch" width="42" height="42" alt="Elasticsearch"/></a>
-  <a href="https://aws.amazon.com/documentation/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="42" height="42" alt="AWS"/></a>
-  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="42" height="42" alt="Docker"/></a>
-  <a href="https://kubernetes.io/docs/" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42" alt="Kubernetes"/></a>
-</p>
-
-**Developer Tools**
-
-<p>
-  <a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/></a>
-  <a href="https://about.gitlab.com/" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab" width="42" height="42" alt="GitLab"/></a>
-  <a href="https://code.visualstudio.com/docs" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VS Code"/></a>
-  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/></a>
-  <a href="https://www.jenkins.io/doc/" title="Jenkins"><img src="https://skillicons.dev/icons?i=jenkins" width="42" height="42" alt="Jenkins"/></a>
-</p>
-
-**APIs, Messaging & AI**
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20%2F%20OpenAPI-6BA8A9?style=flat-square" alt="REST and OpenAPI"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" alt="gRPC"/>
-  <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white" alt="Amazon SQS"/>
-  <img src="https://img.shields.io/badge/Amazon%20SNS-FF9900?style=flat-square&logo=amazonsns&logoColor=white" alt="Amazon SNS"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-5267DF?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-7B61FF?style=flat-square" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/MCP-444444?style=flat-square" alt="MCP"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
-  <img src="https://img.shields.io/badge/Langfuse-222222?style=flat-square" alt="Langfuse"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white" alt="Amazon SQS"/>
+  <img src="https://img.shields.io/badge/Amazon_SNS-EA8B00?style=for-the-badge&logo=amazonsns&logoColor=white" alt="Amazon SNS"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-6554C0?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI_Agents-7B61FF?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/MCP-444444?style=for-the-badge" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/Langfuse-222222?style=for-the-badge" alt="Langfuse"/>
 </p>
 
 ## GitHub Activity & Statistics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub activity, contributions, repositories, and statistics" width="100%"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhupi2508&theme=github_dark"
+    width="100%"
+    alt="GitHub profile summary"
+  />
 </p>
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Bhupi2508&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="170"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Bhupi2508&theme=github-dark-blue&hide_border=true"
+    height="170"
+    alt="GitHub contribution streak"
+  />
+    <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupi2508&theme=github_dark&hide_border=true&layout=compact&langs_count=8"
+    height="170"
+    alt="Most used programming languages"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupi2508&bg_color=0d1117&color=26a69a&line=26a69a&point=ffffff&area=true&hide_border=true&from=2018-01-01&to=2026-12-31"
+    width="100%"
+    alt="GitHub contribution activity from 2018 to 2026"
+  />
+</div>
+
+<br/>
+
 <p align="center">
-  <a href="https://github.com/Bhupi2508?tab=repositories">Explore Repositories</a> &nbsp;•&nbsp;
-  <a href="https://github.com/Bhupi2508?tab=stars">Starred Projects</a> &nbsp;•&nbsp;
-  <a href="https://github.com/Bhupi2508?tab=activity">Recent Activity</a>
+  <a href="https://github.com/Bhupi2508">
+    <img src="https://img.shields.io/badge/Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Profile Overview"/>
+  </a>
+  <a href="https://github.com/Bhupi2508?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+  <a href="https://github.com/Bhupi2508?tab=stars">
+    <img src="https://img.shields.io/badge/Starred_Projects-263B58?style=for-the-badge&logo=star&logoColor=white" alt="Starred Projects"/>
+  </a>
+  <a href="https://github.com/Bhupi2508?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-3A3155?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Bhupi2508?tab=following">
+    <img src="https://img.shields.io/badge/Following-164E63?style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+  </a>
 </p>
 
 ## Beyond the Code
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="320" alt="Coding animation"/>
-</p>
+<table>
+  <tr>
+    <td width="1%" align="center" valign="middle">
+      <img
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+        width="280"
+        alt="Developer coding animation"
+      />
+    </td>
+    <td width="1%" valign="middle">
+      <p align="left">
+        I believe there's more to life than code. I enjoy playing different
+        sports, staying active, working with teams, and meeting people from
+        different backgrounds. I also value volunteering, community
+        participation, and helping others whenever I can.
+      </p>
+    </td>
+  </tr>
+</table>
 
-I believe there's more to life than code. I enjoy playing different sports, staying active, working with teams, and meeting people from different backgrounds. I also value volunteering, community participation, and helping others whenever I can.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
 
 ## Let's Connect
 
@@ -127,9 +171,9 @@ I'm always happy to connect with fellow developers, exchange ideas, discuss tech
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=26A69A&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+great." alt="Animated thank you message"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=26A69A&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.+Keep+Growing.;Let's+connect+and+build+something+great." alt="Animated thank you message"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:26A69A&height=100&section=footer" width="100%" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:26A69A&height=160&section=footer&text=Code%20%7C%20Collaborate%20%7C%20Create&fontSize=22&fontColor=ffffff&fontAlignY=45&desc=Building%20Ideas%20Into%20Reality&descSize=13&descAlignY=68" width="100%" alt="Animated profile footer banner"/>
 </p>
