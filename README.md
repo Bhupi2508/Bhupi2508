@@ -1,107 +1,135 @@
-<div align="center">
-   <img src="https://raw.githubusercontent.com/Bhupi2508/Bhupi2508/master/bhupi.gif"/>
-  
-   # Senior Software Engineer | Full Stack Developer
-   <br>
-   <p align="center"> 
-      <p align="center">
-       <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Bhupi2508/github-clone-count-badge.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://bhupi2508.netlify.app/"><img src="https://img.shields.io/badge/portfolio-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:bhupendrasingh.ec18@gmail.com"><img src="https://img.shields.io/badge/Email-me-red" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.twitter.com/bhupi2508"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/bhupi2508"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" /></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.stackoverflow.com/users/11480540/bhupendra-singh"><img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="100" height="20" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.github.com/bhupi2508"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="60" height="20" /></a>  
-   </p>
-   </p>
-</div>
-<div align="center">
-   <hr>
-   <div align="left">
-      Experienced Senior Software Engineer with over 5 years of expertise in JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL. Proficient in developing scalable web applications and corporate e-commerce solutions, with hands-on experience in banking payment systems. Demonstrated ability to design and implement cost-effective serverless and microservices architectures for enhanced reliability. Additionally, I provide freelancing services, delivering high-quality software solutions. Committed to continuous learning and professional growth in the ever-evolving field of software development.
-   </div>
-   <hr>
+ <div align="center">
+  <img src="https://github.com/Bhupi2508.png" width="110" height="110" alt="GitHub profile picture"/>
 </div>
 
+<h1 align="center">Hi, I'm Bhupendra Singh 👋</h1>
 
-### 💻 Skills :
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=26A69A&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Engineering+Enterprise+Applications;Solving+Complex+Technical+Problems;Development+%7C+Integration+%7C+Production+Support" alt="Animated introduction"/>
+</p>
 
-<table>  
-  <tr>  
-    <td align="center" width="96">  
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /><br> JavaScript 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /><br> TypeScript 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" /><br> Node.js 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" height="50" /><br> Angular 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" /><br> HTML 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" /><br> CSS 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" /><br> GraphQL 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /><br> React 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" /><br> PostgreSQL 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" /><br> AWS 
-    </td>  
-     <td align="center" width="96">  
-     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" /><br> Redux 
-    </td>  
-  </tr>  
-  <tr>  
-    <td align="center" width="96">  
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /><br> Docker 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="50" height="50" /><br> ExpressJS 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" /><br> Git 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="50" height="50" /><br> NestJS 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="50" height="50" /><br> Rest API 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50" /><br> Jenkins 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=jest" alt="JEST" width="50" height="50" /><br> JEST 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" width="50" height="50" /><br> Apollo 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50" /><br> Kubernetes 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="50" height="50" /><br> Nginx 
-    </td>  
-    <td align="center" width="96">  
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" /><br> MongoDB 
-    </td>  
-  </tr>  
-</table>
-<hr>
+<p align="center">
+  <a href="https://bhupi2508.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-26A69A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/bhupi2508/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:bhupendrasingh.ec18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Bhupi2508"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhupi2508&label=PROFILE%20VIEWS&color=0e7490&style=flat" alt="Profile views"/>
+</p>
 
-  
-###  📊 GitHub Statistics :
+---
 
-<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhupi2508&theme=blue_green" /></a>
+## About Me
 
-<a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupi2508&theme=blue_green" /></a><a href="http://www.github.com/bhupi2508"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhupi2508&theme=blue_green"/></a>
+I'm a Senior Software Engineer with 7+ years of experience building scalable backend systems, distributed services, and enterprise applications. My experience includes banking and payments solutions, workflow development, API engineering, database design, and system integrations.
 
-### 🙋‍♂️ Support Me :
+I enjoy working across the software development lifecycle — from understanding requirements and reviewing code to testing, UAT, production releases, troubleshooting, and root cause analysis. I focus on building reliable solutions and solving practical engineering challenges.
 
-<a href="https://www.buymeacoffee.com/bhupi2508"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+Beyond technology, I enjoy playing sports, participating in team activities, volunteering, meeting new people, and contributing to the community. Currently, I'm also exploring AI Engineering.
+
+## Technical Services
+
+**Backend & API Development**  
+Building backend services, REST APIs, GraphQL APIs, microservices, and third-party integrations.
+
+**Full Stack Development**  
+Developing web applications and connecting frontend experiences with reliable backend and database solutions.
+
+**Technical Consulting & Support**  
+Working on system and database design, debugging, performance optimization, maintenance, and production support.
+
+## Technical Skills
+
+**Languages & Frameworks**
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="42" height="42" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/docs/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="42" height="42" alt="TypeScript"/></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python"/></a>
+  <a href="https://nodejs.org/en/docs" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" alt="Node.js"/></a>
+  <a href="https://nestjs.com/" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" width="42" height="42" alt="NestJS"/></a>
+  <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="42" height="42" alt="Express.js"/></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React"/></a>
+  <a href="https://angular.dev/" title="Angular"><img src="https://skillicons.dev/icons?i=angular" width="42" height="42" alt="Angular"/></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="42" height="42" alt="FastAPI"/></a>
+</p>
+
+**Databases & Cloud**
+
+<p>
+  <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB"/></a>
+  <a href="https://redis.io/docs/" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="42" height="42" alt="Redis"/></a>
+  <a href="https://www.elastic.co/guide/" title="Elasticsearch"><img src="https://skillicons.dev/icons?i=elasticsearch" width="42" height="42" alt="Elasticsearch"/></a>
+  <a href="https://aws.amazon.com/documentation/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="42" height="42" alt="AWS"/></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="42" height="42" alt="Docker"/></a>
+  <a href="https://kubernetes.io/docs/" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42" alt="Kubernetes"/></a>
+</p>
+
+**Developer Tools**
+
+<p>
+  <a href="https://git-scm.com/doc" title="Git"><img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/></a>
+  <a href="https://about.gitlab.com/" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab" width="42" height="42" alt="GitLab"/></a>
+  <a href="https://code.visualstudio.com/docs" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VS Code"/></a>
+  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/></a>
+  <a href="https://www.jenkins.io/doc/" title="Jenkins"><img src="https://skillicons.dev/icons?i=jenkins" width="42" height="42" alt="Jenkins"/></a>
+</p>
+
+**APIs, Messaging & AI**
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20%2F%20OpenAPI-6BA8A9?style=flat-square" alt="REST and OpenAPI"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white" alt="Amazon SQS"/>
+  <img src="https://img.shields.io/badge/Amazon%20SNS-FF9900?style=flat-square&logo=amazonsns&logoColor=white" alt="Amazon SNS"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-5267DF?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-7B61FF?style=flat-square" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/MCP-444444?style=flat-square" alt="MCP"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/Langfuse-222222?style=flat-square" alt="Langfuse"/>
+</p>
+
+## GitHub Activity & Statistics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub activity, contributions, repositories, and statistics" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bhupi2508?tab=repositories">Explore Repositories</a> &nbsp;•&nbsp;
+  <a href="https://github.com/Bhupi2508?tab=stars">Starred Projects</a> &nbsp;•&nbsp;
+  <a href="https://github.com/Bhupi2508?tab=activity">Recent Activity</a>
+</p>
+
+## Beyond the Code
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="320" alt="Coding animation"/>
+</p>
+
+I believe there's more to life than code. I enjoy playing different sports, staying active, working with teams, and meeting people from different backgrounds. I also value volunteering, community participation, and helping others whenever I can.
+
+## Let's Connect
+
+I'm always happy to connect with fellow developers, exchange ideas, discuss technology, and learn from different experiences. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhupi2508/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="https://medium.com/@Bhupi2508"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:bhupendrasingh.ec18@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=26A69A&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+great." alt="Animated thank you message"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:26A69A&height=100&section=footer" width="100%" alt="Footer banner"/>
+</p>
